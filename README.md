@@ -8,7 +8,7 @@ I focus on building web applications that are functional, user-friendly, and eas
 [![Instagram Badge](https://img.shields.io/badge/-@ln.mauvii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/ln.mauvii) 
 [![Linkedin Badge](https://img.shields.io/badge/-Maulana%20David%20Hidayat-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-david-hidayat/) 
 [![Tiktok](https://img.shields.io/badge/-maauvii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maauvii/)
-[![](https://komarev.com/ghpvc/?username=MaulanaDavidHidayat&color=blue&label=Profile%20Views)](https://github.com/MaulanaDavidHidayat/Mauvi-Profile)
+[![](https://komarev.com/ghpvc/?username=MaulanaDavidHidayat&color=blue&label=Profile%20Views)](https://github.com/MaulanaDavidHidayat/MaulanaDavidHidayat)
 [![](https://img.shields.io/github/followers/MaulanaDavidHidayat?label=GitHub%20Followers)](https://github.com/MaulanaDavidHidayat)
 
 ### Core Tech Stacks
