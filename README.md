@@ -16,7 +16,7 @@ I focus on building web applications that are functional, user-friendly, and eas
  
 ### Other Tech Stacks
 
-![My Skills]([https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,astro,nodejs,express,php,laravel,golang,redux,prisma,mysql,postgres,firebase,supabase](https://skillicons.dev/icons?i=php,mysql,supabase,python,git,github,blender,react,js))
+![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase,python,git,github,blender,react,js)
 
 ### Tools
 
