@@ -1,4 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&text=Maulana+David+Hidayat&fontColor=F5E727&fontSize=60&fontAlign=50&fontAlignY=35&desc=Student+Developer&descSize=40&descAlign=50&descAlignY=60)
+
+## 🎮 Play My Snake Game
+
+[![Play Snake Game](https://img.shields.io/badge/PLAY-Snake%20Game-c99a52?style=for-the-badge&logo=gamepad&logoColor=white)](https://maulanadavidhidayat.github.io/Snake-game/)
  
 I'm Maulana David Hidayat, an RPL (Software Engineering) student at SMK Negeri 1 Kraksaan, Indonesia. I have a strong interest in software development, web development, and exploring new technologies. I enjoy learning programming and developing my technical skills through hands-on projects and experimentation.
 
