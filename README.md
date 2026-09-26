@@ -1,9 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&text=Maulana+David+Hidayat&fontColor=F5E727&fontSize=60&fontAlign=50&fontAlignY=35&desc=Student+Developer&descSize=40&descAlign=50&descAlignY=60)
 
-## 🎮 Play My Snake Game
 
-[![Play Snake Game](https://img.shields.io/badge/PLAY-Snake%20Game-c99a52?style=for-the-badge&logo=gamepad&logoColor=white)](https://maulanadavidhidayat.github.io/Snake-game/)
- 
+## 🚀 Space Shooter
+
+<p align="center">
+  <img src="assets/space-shooter.gif" width="100%" alt="MauviDev Space Shooter Animation">
+</p>
+
 I'm Maulana David Hidayat, an RPL (Software Engineering) student at SMK Negeri 1 Kraksaan, Indonesia. I have a strong interest in software development, web development, and exploring new technologies. I enjoy learning programming and developing my technical skills through hands-on projects and experimentation.
 
 I focus on building web applications that are functional, user-friendly, and easy to use. I'm familiar with technologies such as HTML, CSS, JavaScript, React, and Vite, and I'm continuously learning new tools and technologies to improve my skills. As a motivated learner, I enjoy solving problems, exploring new ideas, and using AI as a learning assistant to support my development process.
@@ -45,6 +48,10 @@ I focus on building web applications that are functional, user-friendly, and eas
 --->
 
 ![Top Langs](https://github-readme-stats-kappa-mauve-22.vercel.app/api/top-langs/?username=MaulanaDavidHidayat&card_width=495&langs_count=7&layout=compact&theme=maroongold)
+
+## 🎮 Play My Snake Game
+
+[![Play Snake Game](https://img.shields.io/badge/PLAY-Snake%20Game-c99a52?style=for-the-badge&logo=gamepad&logoColor=white)](https://maulanadavidhidayat.github.io/Snake-game/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
 
