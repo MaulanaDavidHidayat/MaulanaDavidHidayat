@@ -30,7 +30,7 @@ I focus on building web applications that are functional, user-friendly, and eas
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulanaDavidHidayat&theme=maroongold&show_icons=true)
+![GitHub stats](https://github-readme-stats-kappa-mauve-22.vercel.app/api?username=MaulanaDavidHidayat&theme=maroongold&show_icons=true)
 
 <!---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
