@@ -40,9 +40,7 @@ I focus on building web applications that are functional, user-friendly, and eas
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satriabahari&theme=maroongold" alt="GitHub Streak" /></a>
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaDavidHidayat&card_width=495&langs_count=7&layout=compact&theme=maroongold)
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MaulanaDavidHidayat&langs_count=7&layout=compact&theme=maroongold)
+![Top Langs](https://github-readme-stats-kappa-mauve-22.vercel.app/api/top-langs/?username=MaulanaDavidHidayat&card_width=495&langs_count=7&layout=compact&theme=maroongold)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
 
