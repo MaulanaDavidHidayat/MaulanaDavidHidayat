@@ -1,11 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&text=Maulana+David+Hidayat&fontColor=F5E727&fontSize=60&fontAlign=50&fontAlignY=35&desc=Student+Developer&descSize=40&descAlign=50&descAlignY=60)
-
-
-## 🚀 Space Shooter
-
 <p align="center">
   <img src="assets/space-shooter.gif" width="100%" alt="MauviDev Space Shooter Animation">
 </p>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&text=Maulana+David+Hidayat&fontColor=F5E727&fontSize=60&fontAlign=50&fontAlignY=35&desc=Student+Developer&descSize=40&descAlign=50&descAlignY=60)
 
 I'm Maulana David Hidayat, an RPL (Software Engineering) student at SMK Negeri 1 Kraksaan, Indonesia. I have a strong interest in software development, web development, and exploring new technologies. I enjoy learning programming and developing my technical skills through hands-on projects and experimentation.
 
